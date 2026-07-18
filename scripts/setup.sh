@@ -1,3 +1,4 @@
-#version 1
+#!/bin/bash
+# version 1
 mkdir -p config logs
 echo 'setup complete'
